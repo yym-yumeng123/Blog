@@ -13,7 +13,7 @@
 5. [CSS选择器汇总](https://github.com/yym-yumeng123/Blog/issues/6)
 6. [详解float](https://github.com/yym-yumeng123/Blog/issues/9)
 7. [Position定位全干货 ](https://github.com/yym-yumeng123/Blog/issues/10)
-8. [display的用法及特性(https://github.com/yym-yumeng123/Blog/issues/13)
+8. [display的用法及特性](https://github.com/yym-yumeng123/Blog/issues/13)
 
 ### Web-skill
 
