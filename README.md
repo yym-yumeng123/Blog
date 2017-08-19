@@ -15,7 +15,7 @@
 7. [Position定位全干货 ](https://github.com/yym-yumeng123/Blog/issues/10)
 8. [display的用法及特性](https://github.com/yym-yumeng123/Blog/issues/13)
 9. [盒模型汇总](https://github.com/yym-yumeng123/Blog/issues/14)
-10 [文本属性都在这了](https://github.com/yym-yumeng123/Blog/issues/16)
+10. [文本属性都在这了](https://github.com/yym-yumeng123/Blog/issues/16)
 ### Web-skill
 
 1. [几个css单位你需要了解一下](https://github.com/yym-yumeng123/Blog/issues/7)
