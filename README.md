@@ -17,6 +17,7 @@
 9. [盒模型汇总](https://github.com/yym-yumeng123/Blog/issues/14)
 10. [文本属性都在这了](https://github.com/yym-yumeng123/Blog/issues/16)
 11. [form表单](https://github.com/yym-yumeng123/Blog/issues/17)
+12. [JS基本语法和基本类型](https://github.com/yym-yumeng123/Blog/issues/18)
 ### Web-skill
 
 1. [几个css单位你需要了解一下](https://github.com/yym-yumeng123/Blog/issues/7)
