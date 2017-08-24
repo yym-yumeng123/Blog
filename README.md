@@ -19,6 +19,7 @@
 11. [form表单](https://github.com/yym-yumeng123/Blog/issues/17)
 12. [JS基本语法和基本类型](https://github.com/yym-yumeng123/Blog/issues/18)
 13. [JS运算符和表达式](https://github.com/yym-yumeng123/Blog/issues/19)
+14. [JS语句](https://github.com/yym-yumeng123/Blog/issues/20)
 ### Web-skill
 
 1. [几个css单位你需要了解一下](https://github.com/yym-yumeng123/Blog/issues/7)
