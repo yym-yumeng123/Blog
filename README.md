@@ -33,3 +33,4 @@
 5. [解密类型转换](https://github.com/yym-yumeng123/Blog/issues/21)
 6. [JS类型和隐式类型转换](https://github.com/yym-yumeng123/Blog/issues/23)
 7. [类型识别](https://github.com/yym-yumeng123/Blog/issues/24)
+8. [inline-block产生的缝隙解决](https://github.com/yym-yumeng123/Blog/issues/28)
