@@ -25,6 +25,7 @@
 17. [JS字符串方法的应用](https://github.com/yym-yumeng123/Blog/issues/26)
 18. [对象和JSON](https://github.com/yym-yumeng123/Blog/issues/27)
 19. [数组](https://github.com/yym-yumeng123/Blog/issues/29)
+20. [Date](https://github.com/yym-yumeng123/Blog/issues/31)
 ### Web-skill
 
 1. [几个css单位你需要了解一下](https://github.com/yym-yumeng123/Blog/issues/7)
