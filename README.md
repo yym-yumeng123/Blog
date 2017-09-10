@@ -26,6 +26,7 @@
 18. [对象和JSON](https://github.com/yym-yumeng123/Blog/issues/27)
 19. [数组](https://github.com/yym-yumeng123/Blog/issues/29)
 20. [Date](https://github.com/yym-yumeng123/Blog/issues/31)
+21. [正则表达式](https://github.com/yym-yumeng123/Blog/issues/32)
 ### Web-skill
 
 1. [几个css单位你需要了解一下](https://github.com/yym-yumeng123/Blog/issues/7)
