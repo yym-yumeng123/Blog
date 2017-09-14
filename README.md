@@ -28,6 +28,7 @@
 20. [Date](https://github.com/yym-yumeng123/Blog/issues/31)
 21. [正则表达式](https://github.com/yym-yumeng123/Blog/issues/32)
 22. [定时器API](https://github.com/yym-yumeng123/Blog/issues/33)
+23. [DOM节点操作](https://github.com/yym-yumeng123/Blog/issues/34)
 
 ### Web-skill
 
