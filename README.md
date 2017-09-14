@@ -41,3 +41,4 @@
 7. [类型识别](https://github.com/yym-yumeng123/Blog/issues/24)
 8. [inline-block产生的缝隙解决](https://github.com/yym-yumeng123/Blog/issues/28)
 9. [编码规范](https://github.com/yym-yumeng123/Blog/issues/30)
+10. [从onClick谈事件代理和了解事件传播机制](https://github.com/yym-yumeng123/Blog/issues/35)
