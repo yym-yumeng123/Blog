@@ -42,3 +42,4 @@
 8. [inline-block产生的缝隙解决](https://github.com/yym-yumeng123/Blog/issues/28)
 9. [编码规范](https://github.com/yym-yumeng123/Blog/issues/30)
 10. [从onClick谈事件代理和了解事件传播机制](https://github.com/yym-yumeng123/Blog/issues/35)
+11. [函数调用和函数传参](https://github.com/yym-yumeng123/Blog/issues/36)
