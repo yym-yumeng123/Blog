@@ -44,3 +44,4 @@
 10. [从onClick谈事件代理和了解事件传播机制](https://github.com/yym-yumeng123/Blog/issues/35)
 11. [函数调用和函数传参](https://github.com/yym-yumeng123/Blog/issues/36)
 12. [jQyery初识](https://github.com/yym-yumeng123/Blog/issues/37)
+13. [jQuery动画与ajax](https://github.com/yym-yumeng123/Blog/issues/38)
