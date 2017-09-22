@@ -47,3 +47,4 @@
 11. [函数调用和函数传参](https://github.com/yym-yumeng123/Blog/issues/36)
 12. [jQyery初识](https://github.com/yym-yumeng123/Blog/issues/37)
 13. [jQuery动画与ajax](https://github.com/yym-yumeng123/Blog/issues/38)
+14. [使用node.js实现一个简单的静态服务器](https://github.com/yym-yumeng123/Blog/issues/41)
