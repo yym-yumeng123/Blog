@@ -49,3 +49,4 @@
 13. [jQuery动画与ajax](https://github.com/yym-yumeng123/Blog/issues/38)
 14. [使用node.js实现一个简单的静态服务器](https://github.com/yym-yumeng123/Blog/issues/41)
 15. [轮播实现原理](https://github.com/yym-yumeng123/Blog/issues/42)
+16. [js小知识点串讲](https://github.com/yym-yumeng123/Blog/issues/43)
