@@ -31,6 +31,7 @@
 23. [DOM节点操作](https://github.com/yym-yumeng123/Blog/issues/34)
 24. [事件总结](https://github.com/yym-yumeng123/Blog/issues/39)
 25. [HTTP,Ajax实践](https://github.com/yym-yumeng123/Blog/issues/40)
+26. [flex布局](https://github.com/yym-yumeng123/Blog/issues/44)
 
 ### Web-skill
 
