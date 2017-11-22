@@ -32,6 +32,7 @@
 24. [事件总结](https://github.com/yym-yumeng123/Blog/issues/39)
 25. [HTTP,Ajax实践](https://github.com/yym-yumeng123/Blog/issues/40)
 26. [flex布局](https://github.com/yym-yumeng123/Blog/issues/44)
+27. [ES6入门使用](https://github.com/yym-yumeng123/Blog/issues/47)
 
 ### Web-skill
 
