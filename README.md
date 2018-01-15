@@ -56,3 +56,4 @@
 18. [JSON语法总结](https://github.com/yym-yumeng123/Blog/issues/46)
 19. [webpack简介](https://github.com/yym-yumeng123/Blog/issues/48)
 20. [动态REM](https://github.com/yym-yumeng123/Blog/issues/49)
+21. [常见设计模式](https://github.com/yym-yumeng123/Blog/issues/50)
