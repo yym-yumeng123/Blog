@@ -61,3 +61,4 @@
 22. [Express框架实现在线便利贴](https://github.com/yym-yumeng123/Blog/issues/51)
 23. [什么是BFC???](https://github.com/yym-yumeng123/Blog/issues/53)
 24. [glup基本操作](https://github.com/yym-yumeng123/Blog/issues/54)
+25. [原型与原型链](https://github.com/yym-yumeng123/Blog/issues/55)
