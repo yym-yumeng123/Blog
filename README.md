@@ -56,6 +56,7 @@
 - [常见设计模式](https://github.com/yym-yumeng123/Blog/issues/50)
 - [原型与原型链](https://github.com/yym-yumeng123/Blog/issues/55)
 - [轮播实现原理](https://github.com/yym-yumeng123/Blog/issues/42)
+- [同步与异步](https://github.com/yym-yumeng123/Blog/issues/57)
 
 
 **jquery**
