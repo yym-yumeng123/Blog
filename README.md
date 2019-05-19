@@ -4,6 +4,9 @@
 
 我自己的学习积累,不断更新中...
 
+### Vue 技术栈
+- [Vue 路由全解](https://github.com/yym-yumeng123/Blog/issues/68)
+
 ### 学习数据结构
 - [数据结构之数组](https://github.com/yym-yumeng123/Blog/issues/65)
 - [数据结构之栈](https://github.com/yym-yumeng123/Blog/issues/66)
