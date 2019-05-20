@@ -6,6 +6,7 @@
 
 ### Vue 技术栈
 - [Vue 路由全解](https://github.com/yym-yumeng123/Blog/issues/68)
+- [状态管理Bus的使用](https://github.com/yym-yumeng123/Blog/issues/69)
 
 ### 学习数据结构
 - [数据结构之数组](https://github.com/yym-yumeng123/Blog/issues/65)
