@@ -10,6 +10,7 @@
 
 ### React技术栈
 - [React简单快速学习](https://github.com/yym-yumeng123/Blog/issues/77)
+- [Redux 笔记(简记)](https://github.com/yym-yumeng123/Blog/issues/78)
 
 ### 学习数据结构
 - [数据结构之数组](https://github.com/yym-yumeng123/Blog/issues/65)
