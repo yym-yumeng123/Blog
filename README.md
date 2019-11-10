@@ -92,5 +92,6 @@
 - [Linux每天一个命令行](https://github.com/yym-yumeng123/Blog/issues/1)
 - [Git应用](https://github.com/yym-yumeng123/Blog/issues/3)
 - [从Todo入门Node.js](https://github.com/yym-yumeng123/Blog/issues/79)
+- [新电脑安装软件](https://github.com/yym-yumeng123/Blog/issues/80)
 
 ### 深度研究
